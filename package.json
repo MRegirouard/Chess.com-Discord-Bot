@@ -1,0 +1,29 @@
+{
+  "name": "chess.com-discord-bot",
+  "version": "1.0.0",
+  "description": "A Discord.js bot to track daily games on Chess.com, using the public API.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MRegirouard/Chess.com-Discord-Bot.git"
+  },
+  "keywords": [
+    "chess",
+    "chess.com",
+    "api",
+    "discord",
+    "game",
+    "track",
+    "move",
+    "notify"
+  ],
+  "author": "MRegirouard",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/MRegirouard/Chess.com-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/MRegirouard/Chess.com-Discord-Bot#readme"
+}
