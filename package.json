@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/MRegirouard/Chess.com-Discord-Bot/issues"
   },
-  "homepage": "https://github.com/MRegirouard/Chess.com-Discord-Bot#readme"
+  "homepage": "https://github.com/MRegirouard/Chess.com-Discord-Bot#readme",
+  "dependencies": {
+    "discord.js": "^13.5.0"
+  }
 }
